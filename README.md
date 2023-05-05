@@ -1,54 +1,30 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/futras)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/futras?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/futras?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/QrS56MIl-CE?style=social)](https://youtu.be/QrS56MIl-CE)
+Futras
+Futras is a website for a gym that offers a variety of fitness programs and classes to help users achieve their fitness goals. The website includes information about the gym's facilities, pricing, and contact information, as well as a testimonials section featuring feedback from current members.
 
-  <br />
-  <br />
+Features
+Responsive design optimized for desktop and mobile devices
+Information about the gym's facilities, pricing, and contact information
+Testimonials section featuring feedback from current members
+Membership sign-up form
+Technologies Used
+HTML5
+CSS3 (with Tailwind CSS)
+JavaScript (with jQuery)
+Installation
+To run the website locally, simply clone the repository and open the index.html file in your preferred web browser.
 
-  <h2 align="center">Futras - Fitness Website</h2>
+bash
+Copy code
+git clone https://github.com/rizz778/futras-website.git
+cd futras-website
+Contributing
+Contributions to the project are always welcome! If you'd like to contribute, please follow these steps:
 
-  Futras is a fully responsive fitness website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/futras/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Futras Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Futras** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/futras.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/futras.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+Fork the repository
+Create a new branch (git checkout -b feature/your-feature)
+Make your changes
+Commit your changes (git commit -am 'Add some feature')
+Push to the branch (git push origin feature/your-feature)
+Create a new pull request
+License
+This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
